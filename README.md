@@ -35,6 +35,8 @@ Currently looking for a **6-month international internship starting September 20
 
 ## Let's connect
 
+![Profile Views](https://komarev.com/ghpvc/?username=Shandouyin&color=7F77DD&style=flat-square)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-shandouyin.github.io-7F77DD?style=flat-square&logo=github&logoColor=white)](https://shandouyin.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon_Nguyen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-nguyen-69727a385/)
 [![Email](https://img.shields.io/badge/Email-shandouyin@gmail.com-D85A30?style=flat-square&logo=gmail&logoColor=white)](mailto:shandouyin@gmail.com)
